@@ -1,0 +1,89 @@
+
+#upper_menu{
+   position:fixed;
+   top:0%;
+   margin:0%;
+   width: 100%;
+   height:20%;
+   background-color:rgb(85, 155, 57);   
+}
+#intro_text{
+    font-family: 'Courier New', Courier, monospace;
+    top:1.5%;
+    font-size:3.5vw;
+    left:20%;
+    position:fixed;
+    margin: auto;
+    width: 70%;
+    color:white;
+    padding: 10px;
+    user-select:none;
+}
+#danieldiv{
+  font-family: 'Courier New', Courier, monospace;
+  top:10%;
+  margin-top:5px;
+  font-size:3vw;
+  left:35%;
+  position:absolute;
+  background-color:white;
+  user-select:none;
+  color:rgb(85, 155, 57);
+}
+#bottom_menu{
+  position:fixed;
+  top:90%;
+  margin:0%;
+  width: 100%;
+  height:10%;
+  background-color:rgb(85, 155, 57);    
+}
+#contact_me{
+  font-family: 'Courier New', Courier, monospace;
+  position:fixed;
+  top:90%;
+  width:20%;
+  height:10%;
+  font-size:2vw;
+  margin-left:15px;
+  color:white;
+}
+#github_link{
+  font-family: 'Courier New', Courier, monospace;
+  position:fixed;
+  top:90%;
+  left:14%;
+  width:20%;
+  height:10%;
+  font-size:2vw;
+  margin-left:15px;
+  color:white;
+  margin-top:2%;
+}
+#fiver_link{
+  font-family: 'Courier New', Courier, monospace;
+  position:fixed;
+  top:90%;
+  left:23%;
+  width:20%;
+  height:10%;
+  font-size:2vw;
+  margin-left:15px;
+  color:white;
+  margin-top:2%;
+}
+html, body 
+{
+    margin:0%;
+    height:100%;
+    width:100%;
+    top:100%;
+    background-color:rgb(85, 155, 57) ;
+}
+canvas{
+  position:fixed;
+  width:100%;
+  height:100%;
+  top:20%;
+}
+
